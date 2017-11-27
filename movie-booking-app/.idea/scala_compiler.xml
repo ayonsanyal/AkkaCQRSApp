@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="creditProcessing,inventoryMgmt,salesOrderProcessing,userMgmt,root,common,movieManagement,root,common,movieManagement,movieReservation,server" />
+  </component>
+</project>

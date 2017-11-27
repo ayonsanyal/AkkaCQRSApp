@@ -1,0 +1,22 @@
+syntax = "proto3";
+package com.ayon.movieservice.moviereservation;
+option java_outer_classname = "MovieReservationDatamodel";
+option optimize_for = SPEED;
+
+
+message MovieReservation {
+     string id =1;
+     string imdbId = 2;
+     string screenId = 3;
+     string movieTitle = 4;
+     int32 availableSeats = 5;
+     int32 reservedSeats = 6;
+}
+
+message MovieReserved {
+     MovieReservation moviereservation = 1;
+}
+
+message SeatReserved{
+     int32 seatCount=1;
+}

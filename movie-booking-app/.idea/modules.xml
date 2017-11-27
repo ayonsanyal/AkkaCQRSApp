@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movieManagement.iml" filepath="$PROJECT_DIR$/.idea/modules/movieManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movieManagement-build.iml" filepath="$PROJECT_DIR$/.idea/modules/movieManagement-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movieReservation.iml" filepath="$PROJECT_DIR$/.idea/modules/movieReservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movieReservation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/movieReservation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+    </modules>
+  </component>
+</project>

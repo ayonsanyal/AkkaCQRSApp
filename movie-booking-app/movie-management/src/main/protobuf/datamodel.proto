@@ -1,0 +1,17 @@
+syntax = "proto3";
+package com.ayon.movieservice.movieregistration;
+option java_outer_classname = "MovieRegistrationDatamodel";
+option optimize_for = SPEED;
+
+
+message MovieRegistration {
+     string id =1;
+    string imdbId = 2;
+    int32 availableSeats = 3;
+    string screenId = 4;
+    string movieTitle = 5 ;
+}
+
+message MovieRegistered {
+    MovieRegistration movieregistration = 1;
+}
